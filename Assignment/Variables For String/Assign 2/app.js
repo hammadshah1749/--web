@@ -1,0 +1,3 @@
+let myName = "Hammad";
+
+myName();
